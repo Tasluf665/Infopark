@@ -1,0 +1,18 @@
+Name: Data Entry: Company Names & Phone Numbers
+
+Link: https://www.freelancer.com/projects/excel/Data-Entry-Company-Names-Phone/details
+
+Details: I'm looking for a detail-oriented freelancer to extract company names and their phone numbers from the provided URL (https://infopark.in/companies/company) and input them into an Excel spreadsheet.
+
+Key Requirements:
+- Data Entry: Accurately enter all company names and phone numbers into standard columns in the .xlsx file.
+- Local Phone Number Formatting: Format all phone numbers in the local format (e.g., 234-567-8901).
+- Excel Proficiency: Use of .xlsx file format is crucial.
+
+Ideal Skills and Experience:
+- Experience in data entry and web research.
+- Proficiency in Microsoft Excel.
+- Attention to detail to ensure all data is accurately captured and formatted.
+
+My YouTube Video: https://youtu.be/vbF8oJIj7AA
+
