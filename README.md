@@ -32,4 +32,6 @@ If you have any questions or suggestions, feel free to reach out!
 - LinkedIn: [Md Tasluf Morshed](https://www.linkedin.com/in/md-tasluf-morshed/)
 - GitHub: [Tasluf665](https://github.com/Tasluf665)
 - Personal Website: [Tasluf Portfolio](https://tasluf665.github.io/portfolio-/index.html)
-- YouTube Video: [How to Scrape Company Data with Puppeteer and Format Phone Numbers | Complete Guide](https://www.youtube.com/watch?v=vbF8oJIj7AA)
+
+## YouTube Overview
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vbF8oJIj7AA/0.jpg)](https://www.youtube.com/watch?v=vbF8oJIj7AA)
